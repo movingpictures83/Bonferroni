@@ -1,0 +1,2 @@
+Prefix plugins/Bonferroni/example
+Plugin Bonferroni inputfile input.csv outputfile corrected.csv
